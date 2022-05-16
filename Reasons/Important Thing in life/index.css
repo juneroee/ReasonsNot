@@ -1,0 +1,115 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #F7F7F7;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F7F7F7;
+}  
+li {
+    float: left;
+}
+  
+li a {
+    margin-left: 10px;
+    display: block;
+    color: #202020;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover{
+    background-color: #92BA92;
+    font-size: 24px;
+}
+.box p{
+    width: 520px;
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: -10px;
+    color: #3d3d3d;
+}
+.box h1{
+    font-family: 'DM Serif Display', serif;
+    color: #78938A;
+}
+.firstRec{
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 300px;
+    margin-top: -15px;
+}
+.secondRec{
+    background-color: #525E75;
+    width: 100%;
+    height: 290px;
+    margin-top: -200px;
+}
+.title{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'BIZ UDPMincho', serif;
+    margin-top: 150px;
+}
+.list{
+    width: 1423px;
+}
+.box{
+    width: 713.5px;
+    height: 545px;
+    float: left;
+    vertical-align: top;
+    background-color: #F7F7F7;
+}
+#box1{
+    background-image: url("Media/Peace.jpg");
+    background-size: cover;
+}
+#box2{
+    margin-left: -4px;
+}
+#box4{
+    margin-left: -4px;
+    background-image: url("Media/Love.jpg");
+    background-size: cover;
+}
+#box5{
+    background-image: url("Media/Health.jpg");
+    background-size: cover;
+}
+#box6{
+    margin-left: -4px;
+}
+#box8{
+    margin-left: -4px;
+    background-image: url("Media/Friends.jpg");
+    background-size: cover;
+}
+#box9{
+    background-image: url("Media/Purpose.jpg");
+    background-size: cover;
+}
+#box10{
+    margin-left: -4px;
+}
+#box12{
+    margin-left: -4px;
+    background-image: url("Media/Time.jpg");
+    background-size: cover;
+}
+#box13{
+    background-image: url("Media/Learning.jpg");
+    background-size: cover;
+}
+#box14{
+    margin-left: -4px;
+}
+
+

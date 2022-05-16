@@ -1,0 +1,134 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #F7F7F7;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F7F7F7;
+}  
+li {
+    float: left;
+}
+  
+li a {
+    margin-left: 10px;
+    display: block;
+    color: #202020;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover{
+    background-color: #92BA92;
+    font-size: 24px;
+}
+.reasons p{
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: justify;
+    margin-top: -20px;
+    color: #202020;
+}
+.reason h1{
+    font-family: 'DM Serif Display', serif;
+}
+.firstRec{
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 270px;
+    margin-top: -15px;
+}
+.secondRec{
+    background-color: #525E75;
+    width: 100%;
+    height: 300px;
+    margin-top: -170px;
+}
+.title{
+    font-size: 90px;
+    text-align: center;
+    font-family: 'BIZ UDPMincho', serif;
+    margin-top: -100PX;
+}
+.reasons{
+    width: 1423px;
+    margin-top: 0px;
+}
+.reason{
+    width: 273.4px;
+    height: 280px;
+    display: inline-block;
+    margin: 0px;
+    padding: 5px;
+    margin-left: -4px;
+    vertical-align: top;
+    border: 1px solid black;
+}
+#reason1{
+    background-color: #F7F7F7;
+}
+#reason2{
+    background-color: #F1DDBF;
+}
+#reason3{
+    background-color: #78938A;
+}
+#reason4{
+    background-color: #92BA92;
+}
+#reason5{
+    background-color: #c0dbc5fd;
+}
+#reason6{
+    background-color: #F7F7F7;
+}
+#reason7{
+    background-color: #F1DDBF;
+}
+#reason8{
+    background-color: #78938A;
+}
+#reason9{
+    background-color: #92BA92;
+}
+#reason10{
+    background-color: #c0dbc5fd;
+}
+#reason11{
+    background-color: #F7F7F7;
+}
+#reason12{
+    background-color: #F1DDBF;
+}
+#reason13{
+    background-color: #78938A;
+}
+#reason14{
+    background-color: #92BA92;
+}
+#reason15{
+    background-color: #c0dbc5fd;
+}
+#reason16{
+    background-color: #F7F7F7;
+}
+#reason17{
+    background-color: #F1DDBF;
+}
+#reason18{
+    background-color: #78938A;
+}
+#reason19{
+    background-color: #92BA92;
+}
+#reason20{
+    background-color: #c0dbc5fd;
+}
+
+
